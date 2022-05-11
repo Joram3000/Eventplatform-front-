@@ -1,4 +1,6 @@
-Event Platform group project
+### Event Platform
+#### a website to find events and buy tickets
+![a website to find events and buy tickets](https://res.cloudinary.com/dqqb0ldgk/image/upload/v1652266196/pictures%20for%20Event%20Platform/EP_events_zneo1i.png)
 
 A website for artists and fans to see which events are scheduled with the option to buy tickets.
 
@@ -15,4 +17,10 @@ we worked on different branches implementing and writing components
 
 What was the biggest challenge
 merging without colissions, working simultaniously is a bigger challenge than working alone on a project.
+
+
+
+
+
+
 
