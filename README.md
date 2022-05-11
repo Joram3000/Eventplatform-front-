@@ -12,7 +12,7 @@ Features:
  
   There is also an artist profile page. If the artist has a Spotify account it will be shown here.
   
- ![artist profile page](https://res.cloudinary.com/dqqb0ldgk/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1652266200/pictures%20for%20Event%20Platform/EP_artist_details_fxclrx.png)
+ ![artist profile page](https://res.cloudinary.com/dqqb0ldgk/image/upload/c_scale,w_874/v1652266200/pictures%20for%20Event%20Platform/EP_artist_details_fxclrx.png)
   
 On the process
 we worked on different branches implementing and writing components
