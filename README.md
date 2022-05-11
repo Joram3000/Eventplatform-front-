@@ -20,8 +20,6 @@ Axios
 ### What was the biggest challenge?
 Merging without colissions, working simultaniously is a bigger challenge than working alone on a project.
 
-Also the payment system is quite challenging, we are using Stripe for this. We hope to implement it correctly soon.
-
 
 
 
