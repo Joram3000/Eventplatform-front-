@@ -8,10 +8,11 @@ A website for artists and fans to see which events are scheduled with the option
 Features:
   As an artist you can post events and sell tickets, providing information such as the date and location of the event. 
   
-  (https://res.cloudinary.com/dqqb0ldgk/image/upload/v1652266201/pictures%20for%20Event%20Platform/EP_post_event_fwlyvs.png)
+  ![post events page](https://res.cloudinary.com/dqqb0ldgk/image/upload/v1652266201/pictures%20for%20Event%20Platform/EP_post_event_fwlyvs.png)
+ 
   There is also an artist profile page. If the artist has a Spotify account it will be shown here.
   
-  (https://res.cloudinary.com/dqqb0ldgk/image/upload/v1652266196/pictures%20for%20Event%20Platform/EP_events_zneo1i.png)
+ ![artist profile page](https://res.cloudinary.com/dqqb0ldgk/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1652266200/pictures%20for%20Event%20Platform/EP_artist_details_fxclrx.png)
   
 On the process
 we worked on different branches implementing and writing components
