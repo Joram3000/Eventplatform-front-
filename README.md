@@ -11,7 +11,7 @@ Features:
   (https://res.cloudinary.com/dqqb0ldgk/image/upload/v1652266201/pictures%20for%20Event%20Platform/EP_post_event_fwlyvs.png)
   There is also an artist profile page. If the artist has a Spotify account it will be shown here.
   
-  
+  (https://res.cloudinary.com/dqqb0ldgk/image/upload/v1652266196/pictures%20for%20Event%20Platform/EP_events_zneo1i.png)
   
 On the process
 we worked on different branches implementing and writing components
